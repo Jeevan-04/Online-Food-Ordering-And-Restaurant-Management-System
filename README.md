@@ -12,7 +12,7 @@ A full-stack food ordering platform with Flutter frontend and Node.js backend, f
 ## � App Preview
 
 <div align="center">
-  <img src="./screenshot.png" alt="Food Order App Screenshot" width="800"/>
+  <img src="https://github.com/user-attachments/assets/8d228583-8259-4605-931f-9d033e407f5e" alt="Food Order App Screenshot" width="800"/>
   <br />
   <em>Food ordering platform with role-based access for Users, Restaurants, and Admins</em>
 </div>
