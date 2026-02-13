@@ -17,8 +17,6 @@ A full-stack food ordering platform with Flutter frontend and Node.js backend, f
   <em>Food ordering platform with role-based access for Users, Restaurants, and Admins</em>
 </div>
 
-> **Note**: Add a screenshot of your app as `screenshot.png` in the project root folder
-
 ---
 
 ## �📋 Quick Start
