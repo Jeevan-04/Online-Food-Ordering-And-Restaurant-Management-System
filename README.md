@@ -16,6 +16,15 @@ A full-stack food ordering platform with Flutter frontend and Node.js backend, f
   <br />
   <em>Food ordering platform with role-based access for Users, Restaurants, and Admins</em>
 </div>
+<div align="center">
+  
+
+https://github.com/user-attachments/assets/57505077-f85c-4ca6-b7c0-7e7f54bd0542
+
+
+  <br />
+  <em>Food ordering platform </em>
+</div>
 
 ---
 
